@@ -1,0 +1,7 @@
+django
+django-environ (Ocultar secret key)
+django-cors-headers (decidir quien puede usar nuesto API)
+django-rest-framework
+pillow
+django-storages
+django-ckeditor
